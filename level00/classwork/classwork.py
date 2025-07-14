@@ -1,1 +1,1 @@
-print("gamarjoba")
+#no classwork
