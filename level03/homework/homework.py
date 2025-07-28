@@ -42,7 +42,7 @@ print(779*3)
 print(53*73)
 
 # არის / გაყოფა
-print(2.5//3)
+print(6/3)
 print(12/6)
 print(34/7)
 print(6432/8)
