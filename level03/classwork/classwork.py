@@ -4,11 +4,11 @@ print(number)
 print(number2)
 print(number+ number2)
 
+"""""
+#12+13
+#36+37
 
-12+13
-36+37
-
-13-9
+#13-9
 99-37
 
 12*9
@@ -16,7 +16,7 @@ print(number+ number2)
 
 12/6
 70/10
-
+"""""
 name="begi"
 lastname="OQROPIRIDZE"
 print(name)
